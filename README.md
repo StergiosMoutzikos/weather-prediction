@@ -186,8 +186,8 @@ PySpark (v3.5.0) is provided via the Docker image `jupyter/all-spark-notebook`.
 
 ## Authors
 
-| Name | Student ID |
-|---|---|
+| Name | 
+|---|
 | Konstantinos Kafteranis |
 | Stergios Moutzikos |
 | Christos Kostakis |
