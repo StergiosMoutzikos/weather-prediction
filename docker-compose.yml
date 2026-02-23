@@ -1,0 +1,9 @@
+version: "3"
+services:
+  pyspark:
+    image: "jupyter/all-spark-notebook"
+    volumes:
+      - ./src:/mnt/data 
+    ports:
+      - 8888:8888
+
