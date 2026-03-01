@@ -33,7 +33,7 @@ This project performs end-to-end analysis of the **weatherAUS** dataset to predi
 
 ## Dataset
 
-**Source:** [`weatherAUS.csv`](weatherAUS.csv)  
+**Source:** [**Rain in Australia Dataset**](https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package)
 **Size:** ~145,460 rows × 23 columns  
 **Target variable:** `RainTomorrow` (Yes / No)
 
