@@ -50,6 +50,7 @@ Key features include temperature (min/max), rainfall, evaporation, sunshine hour
 ├── requirements.txt                # Python dependencies
 ├── docker-compose.yml              # Docker setup for PySpark (Jupyter all-spark-notebook)
 ├── BigData-Report.pdf              # Full academic report (Greek)
+├── weather_prediction_notebook.pdf
 └── README.md
 ```
 
