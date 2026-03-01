@@ -103,7 +103,7 @@ jupyter notebook weather_prediction.ipynb
 ## Pipeline
 
 ```
-weatherAUS.csv
+Rain in Australia Dataset -> weatherAUS.csv
      │
      ▼
 1. Data Loading & Summary Statistics
